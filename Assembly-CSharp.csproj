@@ -62,10 +62,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MenuScript.cs" />
-    <Compile Include="Assets\PlayerMove.cs" />
-    <Compile Include="Assets\Resources\Tile.cs" />
-    <Compile Include="Assets\TacticsMove.cs" />
+    <Compile Include="Assets\Scripts\MenuScript.cs" />
+    <Compile Include="Assets\Scripts\PlayerMove.cs" />
+    <Compile Include="Assets\Scripts\TacticsMove.cs" />
+    <Compile Include="Assets\Scripts\Tile.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Sky/Documents/unity projects/Tactics/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
